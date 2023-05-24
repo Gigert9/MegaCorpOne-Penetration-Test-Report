@@ -1,4 +1,4 @@
-# MegaCorpOne-Penetration-Test-Report
+# MegaCorpOne Penetration Test Report
 
 This file is my final submission of the challenge assignment for Modules 16 &amp; 17 of Georgia Tech's Cybersecurity and Networking Bootcamp.
 
